@@ -9,7 +9,7 @@ IoTProject
 │   README.md 
 │
 └───IoTHomeMonitoring
-    │   IoTProject.ino
+    │   IoTProject.ino [IoT Device program]
     │   
     │
     └───IoTDevice
