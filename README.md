@@ -12,12 +12,11 @@ IoTProject
 │   style.css
 │
 └───IoTDevice
-    |    IoTProject.ino [IoT Device program]
-    │   
-    |   │   ...
-    └───Images
-        │   ...
-        │   ...
+|    |    IoTProject.ino [IoT Device program]
+|         
+└───Images
+    │   ...
+    │   ...     
 ```
 
 # Contact
