@@ -1,7 +1,7 @@
 # IoTProject
 - Personal Home monitoring repository. For university use.
 
-- **Website link:** https://ysjcs.net/~daniel.tang/index.html
+- **Website link:** https://ramposa.github.io/IoTProject/
 - **ThinkSpeak:** https://thingspeak.com/channels/1573881
 
 # File strucutre:
