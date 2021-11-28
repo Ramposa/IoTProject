@@ -3,19 +3,33 @@
 
 - **Website link:** https://ysjcs.net/~daniel.tang/index.html
 
+# File strucutre:
+```
+IoTProject
+│   README.md 
+│
+└───IoTHomeMonitoring
+    │   IoTProject.ino
+    │   
+    │
+    └───IoTDevice
+    |   │   file111.txt
+    |   │   file112.txt
+    |   │   ...
+    └───WebPage
+        │   index.html
+        │   style.css
+        │   ...
+        └───Images
+        │   ...
+        │   ...
+```
+
 # Contact
 - **Email:** daniel.tang@yorksj.ac.uk
 
-# Testing Purposes
-- You can test the database by inserting data into the forms, and along side searching and printing the forns. Another way is to check is by logging into the database on phpmyadmin.
-- **Username:** daniel.tang
-- **Password:** J3TA77AK
-
-- Other forms of testing from GTmetric, last report from *[INSERT_DATE_HERE]* *[INSERT_LINK_HERE]*
-
 # Known bugs
-- Refreshing when inserting data will cause a new insert.
-- 
+- Non reported so far of: 20/11/21
 
 # Built With
 - MS VSC
