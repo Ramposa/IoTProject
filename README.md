@@ -3,6 +3,8 @@
 
 - **Website link:** https://ramposa.github.io/IoTProject/
 - **ThinkSpeak:** https://thingspeak.com/channels/1573881
+- **YouTube demo:**
+- **IoT Program:** https://github.com/Ramposa/IoTProject/tree/main/IoTDevice
 
 # File strucutre:
 ```
