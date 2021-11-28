@@ -11,10 +11,7 @@ IoTProject
 |   index.html
 │   style.css
 │
-└───IoTHomeMonitoring
-    │   
-    │
-    └───IoTDevice
+└───IoTDevice
     |    IoTProject.ino [IoT Device program]
     │   
     |   │   ...
