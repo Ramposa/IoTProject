@@ -1,4 +1,4 @@
-# IoTProject
+# IoTProject [NO LONGER IN USE!]
 - Personal Home monitoring repository. For university use.
 
 - **Website link:** https://ramposa.github.io/IoTProject/
